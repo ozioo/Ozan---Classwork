@@ -6,3 +6,6 @@ non_area=int(input("What is the dimensions of the unaintable areas in your room 
 paint_area = (width * height)- non_area
 cans= float(paint_area/11)
 print(cans)
+
+## ACS - OK. Logically it works.
+## ACS - You need comments to show the approach you are taking.
